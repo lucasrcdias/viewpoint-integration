@@ -1,0 +1,27 @@
+{
+  "name": "viewpoint",
+  "description": "Viewpoint tool to integrate with your website",
+  "main": "dist/viewpoint.js",
+  "authors": [
+    "Beatriz Silva",
+    "Lucas Ramos",
+    "Marcelo Victor",
+    "Pedro Henrique",
+    "Vinicius Lopes",
+    "Vinicius Arantes"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "viewpoint",
+    "open-source"
+  ],
+  "homepage": "https://github.com/lucasrcdias/viewpoint-integration",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
