@@ -10,7 +10,7 @@ O viewpoint pode ser instalado de duas formas:
 
 ##### Download
 
-[Download do código](https://github.com/lucasrcdias/viewpoint-integration/blob/master/dist/viewpoint.min.js)
+[Clique para fazer download do código](https://github.com/lucasrcdias/viewpoint-integration/blob/master/dist/viewpoint.js)
 
 ##### Bower
 
